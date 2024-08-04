@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lavishsphere?cardType=level&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J4TK1CU)
 <!--
 **LavishSphere/LavishSphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
