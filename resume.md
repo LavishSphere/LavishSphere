@@ -1,7 +1,4 @@
 # Ashsmith Khayrul
 
-# Major
-Computer Science and Business Administration
-
-# Graduation
-May 2029
+# Education
+Northeastern University, Computer Science and Business Administration (September 2025-May 2029)
