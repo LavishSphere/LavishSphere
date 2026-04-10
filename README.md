@@ -4,7 +4,7 @@ Thanks for stopping by my Github profile!
 
 ## I'm a Computer Science and Business Administration Student.
 
-I am on track to graduate early with a BS in Computer Science and Business Administration with a concentration in Fiannce from Northeastern University with potential plans to consider a MSCS or MBA. I'm interested in learning about technological innovations and working to integrate AI responsibly into projects.
+I am on track to graduate early with a BS in Computer Science and Business Administration with a concentration in Fintech from Northeastern University with potential plans to consider a MSCS or MBA. I'm interested in learning about technological innovations and working to integrate AI responsibly into projects.
 
 ## I'm a Research Assistant
 I'm a Research Assistant at Northeastern University working under Khoury College of Computer Science. You can learn more about that on my website.
