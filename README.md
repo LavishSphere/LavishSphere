@@ -3,11 +3,10 @@
 Thanks for stopping by my Github profile!
 
 ## I'm a Computer Science and Business Administration Student.
-
 I am on track to graduate early with a BS in Computer Science and Business Administration with a concentration in Fintech from Northeastern University with potential plans to consider a MSCS or MBA. I'm interested in learning about technological innovations and working to integrate AI responsibly into projects.
 
 ## I'm a Teaching Assistant
-I'm a Teaching Assistant at Northeastern University working under Khoury College of Computer Science. You can learn more about that on my website.
+I recently wrapped up a Research Assistant role at Khoury and will be a Teaching Assistant for CS 3200 Databases this summer. You can learn more on my website.
 
 ## Personal Interests
 Some of my hobbies include playing Minecraft, Roblox, chess, and watching documentaries. I enjoyed watching Star Wars and my favorite character is Padmé. My favorite show would have to be Suits.
