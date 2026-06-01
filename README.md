@@ -1,15 +1,22 @@
 # Hey, I'm Ashsmith! 👋
 
-Thanks for stopping by my Github profile!
+Thanks for stopping by my GitHub profile.
 
-## I'm a Computer Science and Business Administration Student.
-I am on track to graduate early with a BS in Computer Science and Business Administration with a concentration in Fintech from Northeastern University with potential plans to consider a MSCS or MBA. I'm interested in learning about technological innovations and working to integrate AI responsibly into projects.
+## About Me
 
-## I'm a Teaching Assistant
-I recently wrapped up a Research Assistant role at Khoury and will be a Teaching Assistant for CS 3200 Databases this summer. You can learn more on my website.
+I'm a Computer Science and Business Administration student at Northeastern University, on track to graduate early with dual concentrations in finance and fintech.
 
-## Personal Interests
-Some of my hobbies include playing Minecraft, Roblox, chess, and watching documentaries. I enjoyed watching Star Wars and my favorite character is Padmé. My favorite show would have to be Suits.
+I'm interested in systems, cloud infrastructure, databases, finance, and responsible AI. I enjoy building practical technology, learning how complex systems work, and thinking about how AI can be integrated responsibly into real-world projects.
+
+## Current Work
+
+I recently wrapped up a Research Assistant role at Khoury, where I studied AI adoption in local government. This summer, I'll be a Teaching Assistant for CS 3200: Databases.
+
+I also run Uniplex Host, a hosting startup focused on providing infrastructure for developers.
+
+## Outside of Tech
+
+Outside of school and work, I enjoy playing Minecraft, Roblox, and chess, watching documentaries, and getting into stories with strong worldbuilding. I'm a Star Wars fan, my favorite character is Padmé, and my favorite show is Suits.
 
 [Check out my website](https://khayrul.com)
 
