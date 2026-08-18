@@ -4,7 +4,7 @@ Thanks for stopping by my GitHub profile.
 
 ## About Me
 
-I'm a Computer Science and Business Administration student at Northeastern University, on track to graduate early with a concentration in Fintech.
+I'm a Computer Science and Business Administration student at Northeastern University, on track to graduate early with a concentration in Entrepreneurial Startups.
 
 I'm interested in systems, cloud infrastructure, DevOps, cybersecurity, and responsible AI. I enjoy building practical technology, learning how complex systems work, and thinking about how AI can be integrated responsibly into real-world projects.
 
